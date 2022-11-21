@@ -1,6 +1,6 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)
 <h1 align="center">Hi 👋, I'm Anthony Taylor</h1>
-<h3 align="center">A passionate Full-Stack developer from NYC.</h3>
+<h3 align="center">A passionate Full-Stack web-developer from NYC.</h3>
 
 
 
@@ -8,13 +8,9 @@
 
 - 🔭 I’m currently working on JavaScript,HTML,CSS [JavaScript Skills-Sharpening Project](https://github.com/joinpursuit/8-0-skill-sharpening-project/pull/195)
 
-- 🌱 I’m currently learning **Python,ReactNative,NodeJs, JavaScript, dJango, CanvasJs**
-
-- 🔭 I’m currently working on JavaScript,HTML,CSS [Dinosaur Museum Project](https://github.com/SasukeDaTony/8-0-dinosaur-museum-project)
+- 🌱 I’m currently learning **React/Redux,NodeJs, JavaScript, HTML, CSS, dJango, CanvasJs, **
 
 - 👨‍💻 All of my projects are available at [https://github.com/SasukeDaTony?tab=repositories](https://github.com/SasukeDaTony?tab=repositories)
-
-- 💬 Ask me about **Python,ReactNative,NodeJs, JavaScript, dJango, CanvasJs**
 
 - 📫 How to reach me **tonytaylor@pursuit.org**
 
