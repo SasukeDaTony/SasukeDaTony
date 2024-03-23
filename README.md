@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on JavaScript,HTML,CSS [JavaScript Skills-Sharpening Project](https://github.com/joinpursuit/8-0-skill-sharpening-project/pull/195)
 
-- 🌱 I’m currently learning **React/Redux,NodeJs, JavaScript, HTML, CSS, dJango, CanvasJs, **
+- 🌱 I’m currently Practicing **React, NodeJs, JavaScript, HTML, CSS, DJango, Python, WordPress, Svelte  **
 
 - 👨‍💻 All of my projects are available at [https://github.com/SasukeDaTony?tab=repositories](https://github.com/SasukeDaTony?tab=repositories)
 
