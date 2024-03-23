@@ -26,6 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasukedatony&show_icons=true&locale=en&layout=compact" alt="sasukedatony" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasukedatony&show_icons=true&locale=en" alt="sasukedatony" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasukedatony&" alt="sasukedatony" /></p>
